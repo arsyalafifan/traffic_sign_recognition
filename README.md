@@ -9,4 +9,4 @@
 ## Screenshots
 
 <img src="https://github.com/arsyalafifan/traffic_sign_recognition/blob/main/1.PNG">
-<img src="https://github.com/arsyalafifan/traffic_sign_recognition/blob/main/1.PNG">
+<img src="https://github.com/arsyalafifan/traffic_sign_recognition/blob/main/2.PNG">
